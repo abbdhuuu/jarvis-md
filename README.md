@@ -1,3 +1,4 @@
+
 #### JARVIS MD WHATSAPP BOT
 jarvis md is Multi Device whatsapp bot based on X-Asena
 ***
@@ -41,3 +42,4 @@ jarvis md is Multi Device whatsapp bot based on X-Asena
 <a href="https://chat.whatsapp.com/HCRUrl9kCvEL6v7OhmG5BR"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <br>
 <a href='https://github.com/IRON-M4N/Jarvis-MD-Plugins' target="_blank"><img alt='jarvis-md' src='https://img.shields.io/badge/EXPLUGIN-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+mention https://i.imgur.com/UtQS4OL.mp4 https://i.imgur.com/SyStVFD.mp4 https://i.imgur.com/UgE8JsU.mp4 https://i.imgur.com/faVuyqI.mp4 https://i.imgur.com/nnKGhti.mp4 https://i.imgur.com/cv50gVv.mp4 https://i.imgur.com/yFqVVzf.mp4 https://i.imgur.com/jRvQirg.mp4 https://i.imgur.com/XgQO5e5.mp4 https://i.imgur.com/bQ3RlT2.mp4 https://i.imgur.com/hS5qXr0.mp4 https://i.imgur.com/flwTy1Y.mp4 https://i.imgur.com/FykdYsQ.mp4 https://i.imgur.com/YuoUxnk.mp4 https://i.imgur.com/HbHqqeW.mp4 type/audio { "waveform": [99,0,99,0,99], "contextInfo": { "forwardingScore": 5, "isForwarded": true, "externalAdReply": { "title": "ᵖᵏᵈ ᵛⁱˢʰⁿᵘ ᵒᵍ", "body": "DQ MODS", "mediaType": 2, "thumbnail": "https://i.imgur.com/tfPZYse.jpeg", "mediaUrl": "", "sourceUrl": "https://www.instagram.com/pkd________vishnu__og?igsh=MTB0cnBxdTdjcjFvNg==" }}}type/audio { "waveform": [99,0,99,0,99], "contextInfo": { "forwardingScore": 5, "isForwarded": true, "externalAdReply": { "title": "abbdhuuu", "body": "abbdhuuu", "mediaType": 2, "thumbnail": "https://i.imgur.com/bGXdeAm.jpeg", "mediaUrl": "", "sourceUrl": "https://www.instagram.com/abbdhuuu?igsh=MW8zdjAwejU0M3p3ZA==" }}}
